@@ -137,5 +137,5 @@
 
 <hr>
 
-### *LinkedIn*: linkedin.com/in/carolina-lopez-430208106
+### *LinkedIn*: https://www.linkedin.com/in/carolina-lopez-430208106/
 ### ¡ Gracias !
