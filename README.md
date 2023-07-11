@@ -103,7 +103,7 @@
 
 ## **PASO 3:**
 ### *Creamos un* **deployment** *con render .donde vamos a poder ejecutar nuestras consultas y modelo de recomendacion desde una web* 
-### **URL:** 
+### **URL:** https://machine-learning-dataft12.onrender.com/docs
 
 <hr>
 
